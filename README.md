@@ -45,3 +45,7 @@ A. Unfortunately nothing is perfect. While the statistics behind the bot is good
 
 3. The bot gives few suggestions!
 A. The bot will never suggest champions you've played in your last 10 games (excludes ARAMs). Because of this, there are edge cases which you already play the champions the bot is trying to suggest - thus providing you with only 1-2 champion suggestions. 
+
+==== Disclaimer ====
+
+Champion Suggestion Bot is powered by PRAW, Riot API, and PostgreSQL. Champion Suggestions Bot isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
