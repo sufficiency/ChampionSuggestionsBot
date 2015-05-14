@@ -8,7 +8,7 @@ The Champion Suggestions Bot's analytical tool is based on association rules min
 
 ==== How to Use ====
 
-Write a comment anywhere on /r/sufficiencybot, /r/leagueoflegends, or /r/summonerschool in the following format:
+While logged in on reddit.com, write a comment anywhere in /r/sufficiencybot, /r/leagueoflegends, or /r/summonerschool in the following format:
 
     championsuggest: <region> <summoner name>
 
@@ -32,6 +32,7 @@ Wait briefly and you will receive a reply to your comment:
 
 The following URL corresponds to the example above: http://www.reddit.com/r/sufficiencybot/comments/33nl1n/champion_suggestions_bot/cr8cot9
 
+Please do NOT pm the bot, as the bot will not respond to anything. 
 
 ==== Common Issues ====
 
