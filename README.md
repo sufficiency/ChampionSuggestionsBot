@@ -28,7 +28,10 @@ Wait briefly and you will receive a reply to your comment:
     Champions you might want to try: Lucian, Graves, Jinx
     Other champions you might want to try: Yasuo, Kalista, Riven, Lee Sin, LeBlanc, Draven, Nautilus
     -----------------------------
-    Champion Suggestions Bot v0.1.1 powered by PRAW, Riot API, and PostgreSQL. Champion Suggestions Bot is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends (c) Riot Games, Inc. Click here for a list of commands and change log.
+    Champion Suggestions Bot v0.1.1 powered by PRAW, Riot API, and PostgreSQL. Champion Suggestions Bot is not endorsed by 
+    Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or 
+    managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. 
+    League of Legends (c) Riot Games, Inc. Click here for a list of commands and change log.
 
 The following URL corresponds to the example above: http://www.reddit.com/r/sufficiencybot/comments/33nl1n/champion_suggestions_bot/cr8cot9
 
